@@ -359,7 +359,7 @@ static void __exit fpga_exit(void)
 module_exit(fpga_exit);
 
 
-MODULE_AUTHOR("DL_ZY");
+MODULE_AUTHOR("s_r_h");
 MODULE_DESCRIPTION("fpga driver");
 MODULE_LICENSE("Dual BSD/GPL");
 MODULE_VERSION("0.1");
